@@ -1,18 +1,18 @@
 ##############################
 # Please edit this line to "lucifer_probot" to make the bot run
-lucifer_explain_config: Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
+lucifer_explain_config: RODDAHDL"
 ##############################  
-bot_token: "YOUR BOT TOKEN HERE" 
-owner_id: "YOUR OWN ID HERE"  # If you dont know, run the bot and do /id in your private chat with it
-api_key: 'Get it from mytelegram.org'  #Owner API Key
-api_hash: 'Get it from mytelegram.org'  #API HASH
-owner_username:  "YOUR USERNAME HERE"  #Just write it with the @ ex "@Amazers_xD"
+bot_token: "951673250:AAH5FYdE7SEEWXMlkCYG4vI-TuPZAIYDBPU" 
+owner_id: "1154890225"  # If you dont know, run the bot and do /id in your private chat with it
+api_key: '1550257'  #Owner API Key
+api_hash: 'b2ac0d24574a3339dcd0234ee4f2f7a1'  #API HASH
+owner_username:  "@exploit_nerd"  #Just write it with the @ ex "@Amazers_xD"
 donation_link: "" #paypal etc
 support_chat: "No Support Chat exists" # Your telegram support chat username, must have the "@" Example: @MyBotSupportGroupChat
-database_url: "sqldbtype://username:pw@hostname:port/db_name" # needed for any database modules
+database_url: "postgres://eywjmfobkfafrc:29af4fe4da5e1b38c9c3fed23cd602ae4a2847a1d76d48b020a12128854ec353@ec2-3-218-75-21.compute-1.amazonaws.com:5432/de02hpvpja497k" # needed for any database modules
 message_dump: "None" # needed to make sure 'save from' messages persist
-gban_dump: "None" #Channel ID here with the hyphen like -123456789
-load: []
+gban_dump: "1001463386415" #Channel ID here with the hyphen like -123456789
+load: ['admin','afk','antiflood','antispam','backups','bans','blacklist','cust_filters','connection','disable','get_comman_chat','locks','log_channel','memes','muting','notes','nsfw','ping','purge','rules','urlblacklist','userinfo','users','warns','welcome','whois']
 no_load: ['translation', 'rss', 'cleaner', 'feds']
 cert_path: None
 port: 5000
